@@ -158,8 +158,8 @@ def v2():
     user=[]
     os.system('clear')
     print(logo)
-    kode = input(' [🔥]  TERGET FIRST NAME : ')
-    kodex = input(' [🔥] TERGET FIRST NAME :  ')
+    kode = input(' [🔥]  TERGET FIRST NAME : Niloy ')
+    kodex = input(' [🔥] TERGET FIRST NAME : 4riyan ')
     doamin = '.'
     limit = int(input('[?] ENTER YOUR CRACK LIMIT : '))
     for nmbr in range(limit):
