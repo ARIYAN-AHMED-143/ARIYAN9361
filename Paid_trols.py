@@ -129,11 +129,11 @@ def v1():
     user=[]
     os.system('clear')
     print(logo)
-    kode = input(' [🔥]  TERGET FIRST NAME : ')
-    kodex = input(' [🔥] TERGET LAST NAME :  ')
+    kode = input(' [🔥]  TERGET FIRST NAME : ARIY4N')
+    kodex = input(' [🔥] TERGET LAST NAME :  ARIY4N')
     print(' [🤝] example Doamin : @gmail.com, @yahoo.com ')
-    doamin = input(' [📧]  Input Doamin  : ')
-    limit = int(input('[?] ENTET YOUR CRACK LIMIT : '))
+    doamin = input(' [📧]  Input Doamin  : ARIY4N')
+    limit = int(input('[?] ENTET YOUR CRACK LIMIT : 99999'))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(1,4))
         user.append(nmp)
@@ -158,10 +158,10 @@ def v2():
     user=[]
     os.system('clear')
     print(logo)
-    kode = input(' [🔥]  TERGET FIRST NAME : Niloy ')
-    kodex = input(' [🔥] TERGET FIRST NAME : 4riyan ')
-    doamin = '.'
-    limit = int(input('[?] ENTER YOUR CRACK LIMIT : '))
+    kode = input(' [🔥]  TERGET FIRST NAME : ARIY4N')
+    kodex = input(' [🔥] TERGET FIRST NAME : ARIY4N ')
+    doamin = 'ARIY4N'
+    limit = int(input('[?] ENTER YOUR CRACK LIMIT : 99999'))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(1,4))
         user.append(nmp)
@@ -170,7 +170,7 @@ def v2():
         print(logo)
         tl = str(len(user))
         print(' [🔥]  Total ids:\033[1;92m '+tl)
-        print(f"\033[1;97m [♥]  Target Doamin:\033[1;92m Facebook CLONING (name)")
+        print(f"\033[1;97m [♥]  Target Doamin:\033[1;92m Facebook CLONING (Ariyan)")
         print(' \033[1;97m[♥]  The process has been started')
         print(' [♥]  Wait for ids ')
         print(50*'_')
